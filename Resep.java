@@ -9,6 +9,8 @@ public class Resep {
         System.out.println("5. Roti");
         System.out.println("6. Patty");
         System.out.println("7. Keju");
+        System.out.println("8. Garam");
+        System.out.println("8. Lada");
         System.out.println("8. Saus Rahasia");
         System.out.println("--------------------");
         System.out.println("Selamat menikmati Krabby Patty Anda!");
